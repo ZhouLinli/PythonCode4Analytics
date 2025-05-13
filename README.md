@@ -1,4 +1,6 @@
 # PythonCode4Analytics
 
-**readjson.py** is a script to _process exported json file from ChatGPT_. 
-Please see the detailed walkthrough of this script: https://youtu.be/B-9IO2AR4UY
+- **readjson.py** is a script to _process exported json file from ChatGPT_. 
+### Please see the detailed walkthrough of this script: https://youtu.be/B-9IO2AR4UY
+
+- **Comparing ML Models for Retention and Dropout.ipynb** is a script _comparing different machine learning models_ applying to a retention prediction research.
